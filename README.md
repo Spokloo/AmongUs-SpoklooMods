@@ -1,8 +1,8 @@
 # Spokloo Mods
-Mods made by Spokloo for Among Us v2021.3.5s.
+Mods créés par Spokloo pour Among Us v2021.3.5s.
 
 # Download
-Go to the [release](https://github.com/Spokloo/AmongUs-SpoklooMods/releases) tab and download the latest version.
+Pour télécharger le mod, allez dans [release](https://github.com/Spokloo/AmongUs-SpoklooMods/releases) et téléchargez la dernière version.
 
 # Installation
-Unzip the .zip file in your Among Us directory
+Dézipper le fichier .zip dans une copie de votre répertoire Among Us.
