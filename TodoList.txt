@@ -1,0 +1,49 @@
+*********************************************
+*					    *		// : bug non présent dans la version en prod (mais présent dans la version dev)
+*		    BUGS		    *		# : bug très mineur qui ne va probablement jamais être fixé parce que c'est pas très dérangeant
+*					    *		$ : bug présent dans le jeu de base (non moddé)
+*********************************************
+
+[Custom Roles]
+
+- Soulstealer outline 2 cadavres quand ils sont côte à côte			#
+
+
+[In Game]
+
+- Fix les portes des toilettes qui sont only client-sided			$
+- Fix le son des échelles qui s'entend sur toute la map				$
+- Fix les coms sur Airship							$
+- Ghost Map : Rainbow color fonctionne pas					//
+
+
+
+*********************************************
+*					    *
+*		    TO DO		    *		+ : fonctionnalité bien à faire mais compliquée / pas forcément possible
+*					    *
+*********************************************
+
+[Lobby]
+
+- Ajouter d'autres custom settings : - Random Sabotages Mode (Catastrophes naturelles) : Sabotages randoms (rares) à chaque round (ou pas)
+												=> texte qui indique une catastrophe naturelle (avec un sabotage à fix)
+				     - % de chance du spawn du couple
+				     - # Detective
+
+- Pouvoir scroller pour voir les nouvelles couleurs
+
+- Quand une custom couleur est déjà sélectionner, faire en sorte de prendre la suivante et pas une couleur de base (créer des glitchs niveau des pseudo et parfois des couleurs)
+
+
+[In Game]
+
+- Ghost Map : au lieu d'écrire "Spokloo [Dead]", SI POSSIBLE écrire "❌ Spokloo"		+
+
+
+[Custom Roles]
+
+- Lovers (mode couple)
+- Detective : voit les traces de pas de la couleur du joueur pendant une très courte durée/portée puis se transforme en gris puis disparaît.
+
+
